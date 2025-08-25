@@ -44,7 +44,7 @@ Navegue até a pasta do projeto:
 
 Bash
 
-cd Jogo-da-Mem-ria
+cd Jogo-da-Memoria
 Abra o arquivo index.html em seu navegador web.
 
 ✒️ Autor
